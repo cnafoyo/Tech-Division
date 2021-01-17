@@ -15,4 +15,4 @@ Java Spark.
 SQL
 
 ## Access Application
-Here is the link to GitHub Page where you can access the application online.
+Find below link to GitHub Page where you can access the application online.
