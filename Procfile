@@ -1,0 +1,1 @@
+web: ./build/install/saftec-departments/bin/saftec-departments
