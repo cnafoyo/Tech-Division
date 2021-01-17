@@ -1,7 +1,12 @@
 # Safaricom Technology Departments
 #### A Web Application for Adding Departments and Sections
 
+## License
+
+MIT Licence Copyright (c) 2020 Nafoyo Billy
+
 ## Description
+
  Java using Spark framework.
 
  #### By **Billy Nafoyo Chepkemoi**
