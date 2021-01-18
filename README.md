@@ -6,9 +6,14 @@
 MIT Licence Copyright (c) 2020 Nafoyo Billy
 
 ## Description
-
- Java using Spark framework.
-
+Project Overview
+Create a Departments. You can create more than 1 department.
+Create staff members within the departments with different roles and responsibilities.
+See all the staff members created under all departments in the home page.
+See a list of departments created
+I cannot add the same staff member in more than 1 department. Prompt a message pointing out one cannot if they try and a failure message.
+See the list of staff in each section/department and their roles and responsibilities
+CRUD capabilities on both the staff member objects and the departments
  #### By **Billy Nafoyo Chepkemoi**
 
 ## Setup/Installation Requirements
